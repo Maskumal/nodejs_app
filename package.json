@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "first project with NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node app.js",
+    "hello": "echo \"Halo Dunia\""
+  },
+  "author": "Maskumal",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
